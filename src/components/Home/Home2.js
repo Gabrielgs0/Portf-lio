@@ -17,7 +17,7 @@ function Home2() {
               UM POUCO <span className="blue"> SOBRE </span> MIM
             </h1>
             <p className="home-about-body">
-              Sempre fui apaixonado por Tecnologia des de criança, mas conheci a programação
+              Sempre fui apaixonado por Tecnologia desde criança, mas conheci a programação
               no começo de 2021 e des de lá venho me aprofundando nesse mundo incrível de possibilidades.
               <br />
               <br />A área que tenho mais afinidade é o 
