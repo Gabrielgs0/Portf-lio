@@ -11,7 +11,6 @@ Technologies.
 - Express.js
 - CSS3
 - VsCode
-- Vercel
 
 ## Getting Started
 
