@@ -33,7 +33,8 @@ function Home2() {
               <br />
               <br />
               Nesses projetos utilizei várias ferramentas como:
-              <b className="blue"><br /> HTML, <br /> CSS, <br /> JavaScript, <br /> React, <br /> Next.js, <br /> Node.js, <br /> Gatsby, <br /> PHP, <br /> WordPress <br /> SASS, <br /> BootStrap...</b>
+              <b className="blue"><br /> HTML, <br /> CSS, <br /> JavaScript, <br /> React, <br /> Next.js, <br /> Node.js, <br />
+              Gatsby, <br /> PHP, <br /> WordPress <br /> SASS, <br /> BootStrap...</b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
