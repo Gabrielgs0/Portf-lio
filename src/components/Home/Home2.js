@@ -17,24 +17,40 @@ function Home2() {
               UM POUCO <span className="blue"> SOBRE </span> MIM
             </h1>
             <p className="home-about-body">
-              Sempre fui apaixonado por Tecnologia desde criança, mas conheci a programação
-              no começo de 2021 e desde lá venho me aprofundando nesse mundo incrível de possibilidades.
+              Sempre fui apaixonado por Tecnologia des de criança, mas conheci a programação
+              no começo de 2021 e des de lá venho me aprofundando nesse mundo incrível de possibilidades.
               <br />
               <br />A área que tenho mais afinidade é o 
               <i>
-                <b className="blue"> Desenvolvimento Web. </b>
+                <b className="blue"> Desenvolvimento Front End. </b>
               </i>
               <br />
               <br />
               Tive a Experiência de trabalhar em projetos de grandes empresas como:
               <i>
-                <b className="blue"> <br /> iFood, <br /> Secretaria da Mulher, <br /> Fundação 1° de maio, <br /> Partido Solidariedade entre outros...</b>
+                <b className="blue"> <br />
+                  iFood, <br />
+                  Secretaria da Mulher, <br />
+                  Fundação 1° de maio, <br />
+                  Partido Solidariedade entre outros...
+                </b>
               </i>
               <br />
               <br />
               Nesses projetos utilizei várias ferramentas como:
-              <b className="blue"><br /> HTML, <br /> CSS, <br /> JavaScript, <br /> React, <br /> Next.js, <br /> Node.js, <br />
-              Gatsby, <br /> PHP, <br /> WordPress <br /> SASS, <br /> BootStrap...</b>
+              <b className="blue">
+                <br /> HTML, <br />
+                CSS, <br />
+                JavaScript, <br />
+                React, <br />
+                Next.js, <br />
+                Node.js, <br />
+                Gatsby, <br />
+                PHP, <br />
+                WordPress, <br />
+                SASS, <br />
+                BootStrap...
+              </b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
