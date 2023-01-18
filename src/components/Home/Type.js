@@ -7,7 +7,7 @@ function Type() {
       options={{
         strings: [
           "Desenvolvedor Full Stack",
-          "Especializado em Front End",
+          "Especializado em Desenvolvimento Web",
           "Dinâmico em Equipe",
           "Programador Autodidata",
         ],
